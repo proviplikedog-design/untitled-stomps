@@ -4,7 +4,7 @@
             ["Stomp"] = "K_Kirumi"
         }
     },
-    ["RBLX!"] = {
+    ["STS!"] = {
         Reward = {
             "STREAK_EFFECT",
             10
