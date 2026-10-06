@@ -1,13 +1,1 @@
-{
-    ["K_K!"] = {
-        Reward = {
-            ["Stomp"] = "K_Kirumi"
-        }
-    },
-    ["WAT!"] = {
-        Reward = {
-            "STREAK_EFFECT",
-            10
-        }
-    }
-}
+{"BOB!": {"Reward": {"Stomp": "K_Kirumi"}},"WAT!": {"Reward": ["STREAK_EFFECT",10]}}
