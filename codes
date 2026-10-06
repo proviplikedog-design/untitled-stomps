@@ -1,0 +1,13 @@
+{
+    ["K_K!"] = {
+        Reward = {
+            ["Stomp"] = "K_Kirumi"
+        }
+    },
+    ["RBLX!"] = {
+        Reward = {
+            "STREAK_EFFECT",
+            10
+        }
+    }
+}
